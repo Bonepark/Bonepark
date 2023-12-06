@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ragozindenis
-- 👀 I’m interested in study
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me >pm<
 
