@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @ragozindenis
-- 💞️ I’m looking to collaborate
-- 📫 How to reach me >pm<
+# Заголовок
 
-<!---
-Bonepark/Bonepark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Привет! Меня зовут Иван Иванов и это мой личный сайт.
+
+## Обо мне
+
+Я разработчик веб-приложений на Ruby on Rails...
+
+## Мои проекты
+
+- [Проект 1](/projects/project-1) 
+- [Проект 2](/projects/project-2)
+
+## Последние посты
+
+- [Настройка Postgres](/posts/postgres-setup)
+- [Обзор React](/posts/react-review) 
+
+## Связаться со мной
+
+[![Twitter](img/twitter.png)](https://twitter.com/username)
+[![LinkedIn](img/linkedin.png)](https://linkedin.com/username)
