@@ -24,6 +24,7 @@ Postman, Docker, Git, Visual Studio Code
 ## Let's Connect
 
 <p align="center">
+	<a href="https://t.me/bonbonbb" target="_blank"><img src="https://img.icons8.com/bubbles/50/telegram-app.png" alt="Telegram"/></a>
 	<a href="https://github.com/ragozindenis" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/ragozindenis/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="mailto:ragozin3dm@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
