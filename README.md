@@ -12,14 +12,16 @@ I am a creative, time punctual, dedicated, goal-oriented individual with decent 
 ### Programming Languages:
 Python, SQL
 
-### 🧰 Frameworks and Libraries:
-FastApi, SQLAlchemy, Websockets, Aiohttp, NumPy, Pandas, React, Django, Flask, Highcharts
+### Frameworks and Libraries:
+FastApi, SQLAlchemy, Websockets, Aiohttp, NumPy, Pandas, React, Django, Flask, Highcharts, Asyncio
 
-### 🗄️ Databases:
+### Databases:
 PostgreSQL, MongoDB
 
+### Software and Tools:
+Postman, Docker, Git, Visual Studio Code
 
-## 🙋‍♀️ Let's Connect
+## Let's Connect
 
 <p align="center">
 	<a href="https://github.com/ragozindenis" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
